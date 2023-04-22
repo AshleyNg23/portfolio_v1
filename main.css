@@ -138,7 +138,7 @@ img {
 
 
 .window {
-    background-image: url(grid.png);
+    background-image: url(./images/grid.png);
     margin: 100px;
     border: 7px solid #e38aac;
     border-radius: 40px;
